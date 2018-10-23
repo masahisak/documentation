@@ -1,7 +1,5 @@
 ### Set ACPI enable
 
-[Back](./index.md)
-
 Select "Device Manager" from the top menu.
 
 ![100](./img/100.jpg)

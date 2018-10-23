@@ -1,7 +1,5 @@
 ### Add Boot Option
 
-[Back](./index.md)
-
 Here shows the way to add new grub boot option.
 
 Select "Boot Maintenance Manager" from the top menu.

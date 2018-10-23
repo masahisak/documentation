@@ -1,7 +1,5 @@
 ### Change Boot Order
 
-[Back](./index.md)
-
 Select "Boot Maintenance Manager" from the top menu.
 
 ![300](./img/300.jpg)
